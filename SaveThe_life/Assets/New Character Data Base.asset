@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0bd6bb6e70689d41a6080c2c23323da, type: 3}
+  m_Name: New Character Data Base
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Owl
+    characterSprite: {fileID: 21300000, guid: 595c70d5a6bea5244b42678230ea8a3e, type: 3}
+  - characterName: Pig
+    characterSprite: {fileID: 21300000, guid: 756dc0438bb7f3549a6a17aa44fcafaf, type: 3}
+  - characterName: Duck
+    characterSprite: {fileID: 21300000, guid: a45cc839f433e16449b5f70b2b6a3878, type: 3}
+  - characterName: Elephant
+    characterSprite: {fileID: 21300000, guid: 549cbc2ae30db8d4e9450607bbb17beb, type: 3}
+  - characterName: Gorilla
+    characterSprite: {fileID: 21300000, guid: 752280599adf59944aaeb8734a6c6fd0, type: 3}
+  - characterName: Parrot
+    characterSprite: {fileID: 21300000, guid: 67163d266ddf4384e920145db88be5c1, type: 3}
+  - characterName: Monkey
+    characterSprite: {fileID: 21300000, guid: 982407fd163b7db449ae8a5f7185cdb1, type: 3}
+  - characterName: Panda
+    characterSprite: {fileID: 21300000, guid: 05cb77b0031b58145be6f466e2cbb9c2, type: 3}
+  - characterName: Penguin
+    characterSprite: {fileID: 21300000, guid: d5e6f52ccd72e964b9fab5eb5e78e069, type: 3}
+  - characterName: Zebra
+    characterSprite: {fileID: 21300000, guid: 2e31ae60ab2bd6f4d8b329ed88ab1ca9, type: 3}
